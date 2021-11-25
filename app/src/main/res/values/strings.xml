@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Askhana</string>
+    <string name="nav_menu_label">Меню</string>
+    <string name="nav_orders_label">Заказы</string>
+    <string name="nav_profile_label">Профиль</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
